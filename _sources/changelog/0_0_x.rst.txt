@@ -1,11 +1,7 @@
 0.0.x
 =====
 
-0.0.3 (latest)
---------------
-
-tbd
-
+List of changes for each version of 0.0.x
 
 
 0.0.2
@@ -29,6 +25,6 @@ tbd
 * **Logo**: Created a basic logo to be used projectwide.
 * **Horizontal Axis and Vertical Axis**: For now, since graphing isnt implemented, the axes only extend a limited range. This is temporary.
 * **Jost Font**: Will be using this font for all GUI elements. May be changed in the future or stay as the main font. See the thirdparty/font folder in the source for license.
-* **Simple GUIv**: Added a simple GUI that allows the calculation of various expressions and version indicator at the bottom right.
+* **Simple GUI**: Added a simple GUI that allows the calculation of various expressions and version indicator at the bottom right.
 
 
