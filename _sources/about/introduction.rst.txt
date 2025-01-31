@@ -7,3 +7,4 @@ Offline Documentation
 ---------------------
 
 The documentation can be downloaded and viewed offline in the GitHub Repo
+

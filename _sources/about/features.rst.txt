@@ -7,3 +7,4 @@ Calculator
 ----------
 
 Calculate basic expressions, wether that be addition, subtraction, multiplication, division, or exponentiation.
+
