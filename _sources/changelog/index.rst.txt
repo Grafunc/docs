@@ -1,7 +1,7 @@
 Changelog
 =========
 
-A list that details all the changes that were documented for each version
+A list of versions and their respective changelogs.
 
 
 .. toctree::
