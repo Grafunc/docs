@@ -1,0 +1,9 @@
+Introduction
+============
+
+Welcome to the official Grafunc documentation. In this documentation you can find the basics of how to use this program, features, limitations, and change log. 
+
+Offline Documentation
+---------------------
+
+The documentation can be downloaded and viewed offline in the GitHub Repo

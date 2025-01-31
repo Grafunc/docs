@@ -1,0 +1,34 @@
+0.0.x
+=====
+
+0.0.3 (latest)
+--------------
+
+tbd
+
+
+
+0.0.2
+-----
+
+**Added**
+
+* **Grid**: Added the graph grid
+* **About Menu**: Added a menu that provides an About screen, a link to the GitHub repository, and a link to the online docs.
+
+
+0.0.1
+-----
+
+**Added**
+
+* **Token Core Class**: Class for storing and organizing tokenized numbers, operators, parenthesis, and functions. For use in RPN Objects or SYAlgo parsing.
+* **RPN Core Class**: Class for storing a list of Tokens in Reverse Polish notation. Can solve the provided list.
+* **SYAlgo Core Class**: Class that uses the Shunting Yard Algorithm to parse a set of Tokens that returns a RPN Object.
+* **Documentation**: *this*
+* **Logo**: Created a basic logo to be used projectwide.
+* **Horizontal Axis and Vertical Axis**: For now, since graphing isnt implemented, the axes only extend a limited range. This is temporary.
+* **Jost Font**: Will be using this font for all GUI elements. May be changed in the future or stay as the main font. See the thirdparty/font folder in the source for license.
+* **Simple GUIv**: Added a simple GUI that allows the calculation of various expressions and version indicator at the bottom right.
+
+

@@ -1,0 +1,9 @@
+Features
+============
+
+Here you will find a list of features that this software is capable of.
+
+Calculator
+----------
+
+Calculate basic expressions, wether that be addition, subtraction, multiplication, division, or exponentiation.
